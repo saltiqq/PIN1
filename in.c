@@ -1,6 +1,6 @@
 #include <stdio.h>
  
-int main()
+int main()      //educational program
 {
 	int a,b,c;
 	printf("\nInput 2 numbers\n");
