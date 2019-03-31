@@ -9,6 +9,8 @@ int main()      //educational program
 	printf("\na+b=",&c);
 	a-b=c;
 	printf("\na-b=",&c);
+	
+	
 	a/b=c;
 	printf("\na/b=",&c);
 	return 0;
