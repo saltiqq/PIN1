@@ -7,5 +7,7 @@ int main()      //educational program
 	scanf("%d%d", &a,&b);
 	a+b=c;
 	printf("\nC=",&c);
+	a-b=c;
+	printf("\nC=",&c);
 	return 0;
 }
